@@ -7,63 +7,64 @@
 
 ---
 
-🚀 **About Me**
+## 🚀 **About Me**
 
- - React Developer by day 
- - Blockchain Enthusiast by night
- - Fascinated by Web3 Security, smart contracts, and finding vulnerabilities. 
- - Hunting for an internship to dive even deeper!
-
----
-
-💼 **What I've Done**
-
-- 🎓 **Educator & Community Builder** at [web3guardians](https://discord.gg/UGhjbPwJy)  
-  Founded a community of 100+ Web3 enthusiasts. Got questions? [Let's chat!](https://discord.gg/UGhjbPwJy)
-  
-- 📝 **Blogger & Storyteller** at [0xMilenov](https://twitter.com/0xMilenov)  
-  Sharing my adventures in blockchain security, one tweet at a time.
-  
-- 🏆 **Contestant & Judge** at Sherlock & CodeArena  
-  Found vulnerabilities, judged codes, and had a blast! Check out [my trophies](https://code4rena.com/@0xmilenov).
+React developer with experience in web development. Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
+ 
+Actively participating in contests, looking to further explore and contribute to blockchain security through internships.
 
 ---
 
-🛠 **Projects & Hobbies**
+## 💼 **What I've Done**
+
+### 🎓 Founder & Educator
+[web3guardians](https://discord.gg/UGhjbPwJy) | [01.06.2023] – Present
+- Founded a community of over 100 members focused on Web3 Security.
+- Educational resources and challenges.
+- Roadmap for security research field, starting with blockchain basics and advancing to more complex topics.
+- Everything is to help others learn, and it's all free to use and share.
+
+### ✍️ Content Creator & Blogger
+[0xMilenov](https://twitter.com/0xMilenov) | [27.03.2023] - Present
+- Documenting my learning journey in blockchain security.
+- Sharing through Twitter threads, Reddit, and Mirror.
+- Newsletter for readers.
+  
+### 🕵️‍♂️ Participant & Judge
+Sherlock & CodeArena | [01.06.2023] – Present
+- Participation in contests.
+- Found vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov)
+- A judge in Sherlock assessing submissions.
+
+---
+
+## 🛠 **Projects & Hobbies**
 
 - 🔔 Building a tool to stay updated on bug bounties - alerts sent straight to Telegram!
 - 📚 Constantly learning & experimenting. Because the world of tech never stops!
 
 ---
 
-📚 **Education & Training**
+## 🔥 **Skills**
 
-- Web3? Blockchain? Smart Contracts? 
-- Been there, done that, got the POAPs to prove it!
-
----
-
-🔥 **Skills**
-
-- Detecting vulnerabilities in Blockchain Security.
-- Crafting smart contracts while sipping coffee.
-- Building communities stronger than a blockchain.
-- Sharing tales of my coding adventures on Twitter, Reddit, and more.
-- I've also dabbled in creating some cool NFT marketplaces and DAO systems.
+- Blockchain Security
+- Smart Contract Development
+- Community Building
+- Content Creation
+- DApp Development
 
 ---
 
-🏅 **Achievements**
-
-- Conquered the [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
-- Discovered game-changing vulnerabilities in Code Arena.
-- Built a thriving Web3 Security community from scratch.
+## 🏆 Achievements
+- Completed the [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
+- Detected vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov)
+- Built a dedicated [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
 
 ---
 
-💡 **Final Words**
+## 💬 A Note From Me
 
-Started with React, now exploring the vast ocean of decentralization. 
-My mission? A safer decentralized world. 
-Let's collaborate and make some magic!
+Traditionally I'm a React developer, but for over a year, I've shifted my focus to blockchain security.
+
+I believe in decentralization as the future and am eager to collaborate and contribute to a safer decentralized world.
 

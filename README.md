@@ -26,9 +26,8 @@ Sherlock & CodeArena | [01.06.2023] – Present
 ### Founder & Educator
 [web3guardians](https://discord.gg/UGhjbPwJy) | [01.06.2023] – Present
 - Founded a community of over 100 members focused on Web3 Security.
-- Educational resources and challenges.
+- Educational resources and challenges to help others learn, and it's all free to use and share.
 - Roadmap for security research field, starting with blockchain basics and advancing to more complex topics.
-- Everything is to help others learn, and it's all free to use and share.
 
 ### Content Creator & Blogger
 [0xMilenov](https://twitter.com/0xMilenov) | [27.03.2023] - Present

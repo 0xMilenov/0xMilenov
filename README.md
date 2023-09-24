@@ -18,19 +18,19 @@ Actively participating in contests, looking to further explore and contribute to
 ##  **What I've Done**
 
 ### Participant & Judge
-Sherlock & CodeArena |
+Sherlock & CodeArena 
 - Participation in contests.
 - Found vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov)
 - A judge in Sherlock assessing submissions.
 
 ### Founder & Educator
-[web3guardians](https://discord.gg/UGhjbPwJy) |
+[web3guardians](https://discord.gg/UGhjbPwJy) 
 - Founded a community of over 100 members focused on Web3 Security.
 - Educational resources and challenges to help others learn, and it's all free to use and share.
 - Roadmap for security research field, starting with blockchain basics and advancing to more complex topics.
 
 ### Content Creator & Blogger
-[0xMilenov](https://twitter.com/0xMilenov) |
+[0xMilenov](https://twitter.com/0xMilenov) 
 - Documenting my learning journey in blockchain security.
 - Sharing through Twitter threads, Reddit, and Mirror.
 - Newsletter for readers.

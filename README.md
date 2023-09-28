@@ -24,7 +24,7 @@ Sherlock & CodeArena
 - A judge in Sherlock assessing submissions.
 
 ### Founder & Educator
-[web3guardians](https://discord.gg/UGhjbPwJy) 
+[web3guardians](https://discord.gg/kTrdBMwWp)
 - Founded a community of over 100 members focused on Web3 Security.
 - Educational resources and challenges to help others learn, and it's all free to use and share.
 - Roadmap for security research field, starting with blockchain basics and advancing to more complex topics.

@@ -17,30 +17,32 @@ Actively participating in contests, looking to further explore and contribute to
 
 ##  **What I've Done**
 
-### Participant & Judge
-Sherlock & CodeArena 
-- Participation in contests.
-- Found vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov)
-- A judge in Sherlock assessing submissions.
+### **Collaborator & Member, O-Three-Two**
 
-### Founder & Educator
-[web3guardians](https://discord.gg/kTrdBMwWp)
-- Founded a community of over 100 members focused on Web3 Security.
-- Educational resources and challenges to help others learn, and it's all free to use and share.
-- Roadmap for security research field, starting with blockchain basics and advancing to more complex topics.
+[**bytes032.xyz**](https://bytes032.xyz/) | [**GitHub**](https://github.com/O-Three-Two)
+**Collaboration with @bytes032, a leading figure in the Web3 security field**
 
-### Content Creator & Blogger
-[0xMilenov](https://twitter.com/0xMilenov) 
-- Documenting my learning journey in blockchain security.
-- Sharing through Twitter threads, Reddit, and Mirror.
-- Newsletter for readers.
+- Assisted in developing `@bytes032`'s website, showcasing his audits and achievements in the Web3 security field.
+- Introduced features like "Newsletter", "Hire Me", "Stack" and "AMA", improving user interaction. Credited for contributions [**here**](https://twitter.com/bytes032/status/1707350156843126827)
+- Active member of "O-Three-Two", a private GitHub organization led by `@bytes032`, focusing on Web3 security projects.
+
+### **Web3 Community Builder & Participant**
+
+[**web3guardians on Discord**](https://discord.gg/kDA9shGjj) | [**@0xMilenov on Twitter**](https://twitter.com/0xMilenov) | [**CodeArena Profile**](https://code4rena.com/@0xmilenov)
+- Established "web3guardians", a growing community of over 100 members focused on Web3 Security.
+- Offer educational content, host "Spot the Bug" challenges, and reward members with POAPs.
+- Designed a step-by-step learning roadmap on security research, covering blockchain basics to advanced topics. Each topic has a dedicated Discord channel for discussions.
+- Passionately share my learning journey in the blockchain security field, primarily via Twitter threads and occasionally on platforms like Reddit and Mirror.
+- Honored to have found a few vulnerabilities in Code Arena. You can see them in my profile.
+- Previously judged for Sherlock, evaluating the security of submissions.
+
+
   
 ---
 
-## **Projects & Hobbies**
+## **Projects **
 
--  Building a tool to stay updated on bug bounties - alerts sent straight to Telegram!
--   Constantly learning & experimenting. Because the world of tech never stops!
+SOON!
 
 ---
 

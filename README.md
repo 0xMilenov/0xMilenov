@@ -35,12 +35,10 @@ Actively participating in contests, looking to further explore and contribute to
 - Passionately share my learning journey in the blockchain security field, primarily via Twitter threads and occasionally on platforms like Reddit and Mirror.
 - Honored to have found a few vulnerabilities in Code Arena. You can see them in my profile.
 - Previously judged for Sherlock, evaluating the security of submissions.
-
-
   
 ---
 
-## **Projects **
+## **Projects**
 
 SOON!
 
@@ -48,18 +46,11 @@ SOON!
 
 ## **Skills**
 
-- Blockchain Security
-- Smart Contract Development
-- Community Building
-- Content Creation
+- Blockchain Security - Detected vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov).
+- Smart Contract Development - Completed the [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
+- Community Building - Built a dedicated [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
+- Content Creation - [@0xMilenov](https://twitter.com/0xMilenov)
 - DApp Development
-
----
-
-## Achievements
-- Completed the [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
-- Detected vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov)
-- Built a dedicated [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## **About Me**
 
-React developer with experience in web development. 
+React developer with experience in web development.      
 Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
 
 ---
@@ -21,8 +21,8 @@ Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts,
 [**bytes032.xyz**](https://bytes032.xyz/) | [**GitHub**](https://github.com/O-Three-Two)
 **Collaboration with @bytes032, a leading figure in the Web3 security field**
 
-- Assisted in developing `@bytes032`'s website, showcasing his audits and achievements in the Web3 security field.
-- Introduced features like "Newsletter", "Hire Me", "Stack" and "AMA", improving user interaction. Credited for contributions [**here**](https://twitter.com/bytes032/status/1707350156843126827)
+- [Assisted in developing `@bytes032`'s website](https://twitter.com/bytes032/status/1707350156843126827), showcasing his audits and achievements in the Web3 security field.
+- Introduced features like "Newsletter", "Hire Me", "Stack" and "AMA", improving user interaction.
 - Active member of "O-Three-Two", a private GitHub organization led by `@bytes032`, focusing on Web3 security projects.
 
 ### **Web3 Community Builder & Participant**
@@ -45,11 +45,11 @@ SOON!
 
 ## **Skills**
 
-- Blockchain Security - Detected vulnerabilities in [Code Arena](https://code4rena.com/@0xmilenov).
-- Smart Contract Development - Completed the [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
-- Community Building - Built a dedicated [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
-- Content Creation - [@0xMilenov](https://twitter.com/0xMilenov)
-- DApp Development
+- Blockchain Security - ✅[Code Arena](https://code4rena.com/@0xmilenov).
+- Smart Contract Development - ✅[Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
+- Community Building - ✅[Web3 Security community](https://discord.com/invite/UGhjbPwJy).
+- Content Creation - ✅[@0xMilenov](https://twitter.com/0xMilenov)
+- Tools creator - SOON!
 
 ---
 

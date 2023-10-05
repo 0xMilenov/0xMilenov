@@ -9,9 +9,8 @@
 
 ## **About Me**
 
-React developer with experience in web development. Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
- 
-Actively participating in contests, looking to further explore and contribute to blockchain security through internships.
+React developer with experience in web development. 
+Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
 
 ---
 

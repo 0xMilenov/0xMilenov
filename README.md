@@ -10,6 +10,7 @@
 ## **About Me**
 
 React developer with experience in web development.      
+
 Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
 
 ---
@@ -32,7 +33,7 @@ Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts,
 - Offer educational content, host "Spot the Bug" challenges, and reward members with POAPs.
 - Designed a step-by-step learning roadmap on security research, covering blockchain basics to advanced topics. Each topic has a dedicated Discord channel for discussions.
 - Passionately share my learning journey in the blockchain security field, primarily via Twitter threads and occasionally on platforms like Reddit and Mirror.
-- Honored to have found a few vulnerabilities in Code Arena. You can see them in my profile.
+- Honored to have found a few vulnerabilities in Code Arena.
 - Previously judged for Sherlock, evaluating the security of submissions.
   
 ---
@@ -45,11 +46,11 @@ SOON!
 
 ## **Skills**
 
-- Blockchain Security - ✅[Code Arena](https://code4rena.com/@0xmilenov).
-- Smart Contract Development - ✅[Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
-- Community Building - ✅[Web3 Security community](https://discord.com/invite/UGhjbPwJy).
-- Content Creation - ✅[@0xMilenov](https://twitter.com/0xMilenov)
 - Tools creator - SOON!
+- Content Creation - ✅ [@0xMilenov](https://twitter.com/0xMilenov)
+- Blockchain Security - ✅ [Code Arena](https://code4rena.com/@0xmilenov).
+- Community Building - ✅ [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
+- Smart Contract Development - ✅ [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
 
 ---
 

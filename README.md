@@ -49,7 +49,7 @@ SOON!
 - Tools creator - SOON!
 - Content Creation - ✅ [@0xMilenov](https://twitter.com/0xMilenov)
 - Blockchain Security - ✅ [Code Arena](https://code4rena.com/@0xmilenov).
-- Community Building - ✅ [Web3 Security community](https://discord.com/invite/UGhjbPwJy).
+- Community Building - ✅ [Web3 Security community](https://discord.com/invite/kDA9shGjj).
 - Smart Contract Development - ✅ [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
 
 ---

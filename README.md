@@ -38,15 +38,27 @@ Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts,
   
 ---
 
+## **Audits**
+
+---
+
 ## **Projects**
 
-SOON!
+🛡️ [**ImmunefiChecker**](https://github.com/0xMilenov/ImmunefiChecker)
+
+An advanced real-time tracking tool designed to keep an edge in the Immunefi bounty-hunting scene:
+
+- Real-time updates on asset additions/removals, new bounties, and bounty removals.
+- Faster and more efficient than Immunefi's own notification system.
+- Tracks public GitHub repositories associated with Immunefi bounties.
+- Immediate notifications for commits on the main branch that affect files in scope.
+- This Python-based tool uses MongoDB as its database and efficiently levels the playing field for all bounty hunters.
 
 ---
 
 ## **Skills**
 
-- Tools creator - SOON!
+- Tools creator - ✅ [ImmunefiChecker](https://github.com/0xMilenov/ImmunefiChecker)
 - Content Creation - ✅ [@0xMilenov](https://twitter.com/0xMilenov)
 - Blockchain Security - ✅ [Code4rena](https://code4rena.com/@0xmilenov).
 - Community Building - ✅ [Web3 Security community](https://discord.com/invite/kDA9shGjj).

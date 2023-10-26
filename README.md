@@ -9,7 +9,7 @@
 
 ## **About Me**
 
-React developer with experience in web development.      
+Full-stack web developer.      
 
 Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts, and vulnerability detection.
 
@@ -60,7 +60,7 @@ An advanced real-time tracking tool designed to keep an edge in the Immunefi bou
 
 - Tools creator - ✅ [ImmunefiChecker](https://github.com/0xMilenov/ImmunefiChecker)
 - Content Creation - ✅ [@0xMilenov](https://twitter.com/0xMilenov)
-- Blockchain Security - ✅ [Code4rena](https://code4rena.com/@0xmilenov).
+- Blockchain Security - ✅ [Code4rena](https://code4rena.com/@0xmilenov), [Ethernaut + Foundry](https://github.com/0xMilenov/My-Ethernaut-Foundry-Solutions)
 - Community Building - ✅ [Web3 Security community](https://discord.com/invite/kDA9shGjj).
 - Smart Contract Development - ✅ [Lime Academy Web3 Fundamentals Course](https://app.poap.xyz/token/6495244).
 
@@ -68,7 +68,7 @@ An advanced real-time tracking tool designed to keep an edge in the Immunefi bou
 
 ## A Note From Me
 
-Traditionally I'm a React developer, but for over a year, I've shifted my focus to blockchain security.
+Traditionally I'm a full-stack developer, but for over a year, I've shifted my focus to blockchain security.
 
 I believe in decentralization as the future and am eager to collaborate and contribute to a safer decentralized world.
 

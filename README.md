@@ -38,7 +38,7 @@ Enthusiast of Blockchain Security, interested in Web3 Security, smart contracts,
   
 ---
 
-## **Audits**
+## ** Solo Audits**
 
 ---
 

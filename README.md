@@ -1,6 +1,6 @@
 # Audit Portfolio - 0xMilenov
 
-Rookie security researcher specializing in smart contract audits.                 
+Security researcher specializing in smart contract audits.                 
 Contact me via [my website](https://0xmilenov.xyz/) for private audits or other software engineering work.        
 You can also request a quote via my [Code4rena](https://code4rena.com/@0xMilenov) profile.
 

@@ -4,6 +4,13 @@ Security researcher specializing in smart contract audits.
 Contact me via [my website](https://0xmilenov.xyz/) for private audits or other software engineering work.        
 You can also request a quote via my [Code4rena](https://code4rena.com/@0xMilenov) profile.
 
+# Private Audits
+| Client | Description | Results |
+|:-------:|:-----------:|:-----------:|
+| [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
+| [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
+
+
 # Competitive Audits
 | Contest | Description | Platform | Findings | Submissions |
 |:-------:|:-----------:|:--------:|:--------:|:-----------:|

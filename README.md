@@ -7,7 +7,6 @@ You can also request a quote via my [Code4rena](https://code4rena.com/@0xMilenov
 # Private Audits
 | Client | Description | Results |
 |:-------:|:-----------:|:-----------:|
-| [GoatFi](https://www.goat.fi/#/) | A decentralized yield optimizer that allows users, DAOs and other protocols earn the  yield on their digital assets by auto-compounding the rewards into more of what they've deposited | SOON |
 | [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
 | [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
 

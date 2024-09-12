@@ -14,6 +14,7 @@ You can also request a quote via my [Code4rena](https://code4rena.com/@0xMilenov
 # Competitive Audits
 | Contest | Description | Platform | Findings | Submissions |
 |:-------:|:-----------:|:--------:|:--------:|:-----------:|
+| [TraitForge](https://traitforge.game/) | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. | Code4rena | QA | [Submission](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
 |[Predy Finance](https://www.predy.finance/) | New Trade experience with the Intent-Based Perpetual and Swap DEX. | Code4rena | 2 M | [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/69) | 
 |[Autonolas](https://olas.network/)| Autonolas is a unified network for off-chain services like automation, oracles, co-owned AI | Code4rena |QA|[Submission](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md)|
 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)|A first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking|CodeHawks|2 L|[Submission](https://www.codehawks.com/submissions/clqf7mgla0001yeyfah59c674/166), [Submission](https://www.codehawks.com/submissions/clqf7mgla0001yeyfah59c674/169)|

@@ -1,8 +1,7 @@
 # Audit Portfolio - 0xMilenov
 
 Security researcher specializing in smart contract audits.                 
-Contact me via [my website](https://0xmilenov.xyz/) for private audits or other software engineering work.        
-You can also request a quote via my [Code4rena](https://code4rena.com/@0xMilenov) profile.
+Contact me via [FindAudit](https://0xmilenov.info/) for private audits or other software engineering work.        
 
 # Private Audits
 | Client | Description | Results |

@@ -1,11 +1,12 @@
 # Audit Portfolio - 0xMilenov
 
-Security researcher specializing in smart contract audits.                 
-Contact me via [my website](https://0xmilenov.xyz/) for private audits or other software engineering work.        
+Blockchain engineer and security researcher specializing in smart contract audits.                 
+Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other software engineering work.        
 
 # Private Audits
 | Client | Description | Results |
 |:-------:|:-----------:|:-----------:|
+| [QuantDAO](https://staking.quantdao.io/) | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
 | [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
 | [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
 

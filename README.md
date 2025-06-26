@@ -1,17 +1,9 @@
-# Audit Portfolio - 0xMilenov
+# Portfolio - 0xMilenov
 
 Blockchain engineer and security researcher specializing in smart contract audits.                 
 Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other software engineering work.        
 
-# Private Audits
-| Client | Description | Results |
-|:-------:|:-----------:|:-----------:|
-| [QuantDAO](https://staking.quantdao.io/) | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
-| [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
-| [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
-
-
-# Competitive Audits
+## Competitive Audits
 | Contest | Description | Platform | Findings | Submissions |
 |:-------:|:-----------:|:--------:|:--------:|:-----------:|
 | [Tadle](https://tadle.com/) | Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets! | CodeHawks |  3 L | [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
@@ -23,3 +15,38 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 | [Steadefi](https://www.codehawks.com/contests/clo38mm260001la08daw5cbuf) | Next-gen DeFi protocol designed to provide the highest and most sustainable real yields | CodeHawks | Low | [Submission](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) | 
 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Efficient liquidity renting and management across chains with Curvenized Uniswap V3 | Code4rena | Medium | [Submission](https://github.com/code-423n4/2023-05-maia-findings/issues/372) | 
 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | A DAO-driven NFT project on Ethereum | Code4rena | QA | [Submission](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+
+## Private Audits
+| Client | Description | Results |
+|:-------:|:-----------:|:-----------:|
+| [QuantDAO](https://staking.quantdao.io/) | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
+| [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
+| [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
+
+# Web3 Development
+
+| Name | Description | Role | Website |
+|:-------:|:-----------:|:--------:|:--------:|
+| Decentralize | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. | Lead dev | [dApp](https://www.decentralizeswap.com/) |
+| Optima Financial | An investment platform that tokenizes cryptocurrency investment strategies in a secure and compliant way. | Senior | [dApp](https://www.optima.financial/) |   
+| Inferno | Inferno is simple: Use $TITANX and mint $INFERNO. There are 8, twenty four hour mint cycles and 90% buy and burn. | Lead dev | [dApp](https://inferno.win/) |
+| AwesomeX | AwesomeX is a hyper-deflationary perpetual compounding machine Built on DragonX - Using TitanX to mint. | Lead dev | [dApp](https://x.com/AwesomeXwins) | 
+| LiveSphere | Decentralized platform that connects broadcasters and viewers through live streaming, token economies, and direct engagement. | Lead dev | [dApp](https://livesphere-landing-page.vercel.app/) |
+| TrustedStake | The premier non-custodial and pioneering trustless staking service within the Bittensor ecosystem. | Senior | [dApp](https://trustedstake.ai/) |
+| 3A DAO | Decentralized, permissionless lending and trading markets for quality on-chain assets. | Senior | [dApp](https://3a-dapp-git-redbelly-bonq-ch.vercel.app/) |
+| LumiaUSD | A fork of the 3A DAO lending protocol, customized for Lumia to enable LUMIA token holders to use their tokens as collateral for borrowing rwaUSD stablecoin. | Senior | [dApp](https://lumia-ui-phi.vercel.app/) | 
+| DAG Bridge | The DAG Bridge is a cross-chain bridge that allows users to transfer assets between Ethereum and Constellation. | Senior | [dApp](https://dag-bridge.3adao.org/) |
+| Graffiti Staking | Here you can stake your $GRAF tokens to earn rewards generated by the Graffiti protocol. | Senior | [dApp](https://graffiti-staking-frontend.vercel.app/) |
+
+Click [here](https://visualisa.xyz/) to explore all of them.
+ 
+
+
+
+
+
+
+
+
+
+

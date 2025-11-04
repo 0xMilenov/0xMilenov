@@ -27,7 +27,7 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 | Name | Description | Role | Website |
 |:-------:|:-----------:|:--------:|:--------:|
-| Decentralize | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. | Lead dev | [dApp](https://www.decentralizeswap.com/) |
+| Pool | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. | Lead dev | [dApp](https://www.poolswap.io/) |
 | Optima Financial | An investment platform that tokenizes cryptocurrency investment strategies in a secure and compliant way. | Senior | [dApp](https://www.optima.financial/) |   
 | Inferno | Inferno is simple: Use $TITANX and mint $INFERNO. There are 8, twenty four hour mint cycles and 90% buy and burn. | Lead dev | [dApp](https://inferno.win/) |
 | AwesomeX | AwesomeX is a hyper-deflationary perpetual compounding machine Built on DragonX - Using TitanX to mint. | Lead dev | [dApp](https://x.com/AwesomeXwins) | 

@@ -4,20 +4,20 @@ Blockchain engineer and security researcher specializing in smart contract audit
 Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other software engineering work.        
 
 ## Competitive Audits
-| Contest | Description | Platform | Findings | Submissions |
+| Contest | Description | Platform | Confirmed Results | Vulnerabilities |
 |:-------:|:-----------:|:--------:|:--------:|:-----------:|
-| [Megapot](https://megapot.io/) | Megapot is crypto's largest jackpot. 100% of every ticket sold goes back to the community. | Code4rena | 1 M, 2 L, QA - B grade | NA |
-| [GTE Perps and Launchpad](https://www.gte.xyz/) | GTE is the world's fastest decentralized exchange. | Code4rena | 4 M, 2 L, QA - A grade | NA | 
+| [Megapot](https://megapot.io/) | Megapot is crypto's largest jackpot. 100% of every ticket sold goes back to the community. | Code4rena | 1 M, 2 L, QA(B) | NA |
+| [GTE Perps and Launchpad](https://www.gte.xyz/) | GTE is the world's fastest decentralized exchange. | Code4rena | 4 M, 2 L, QA(A) | NA | 
 | [Nudge](https://nudge.xyz/) | Reallocate Tokens, Get Instant Rewards! Get Paid to Reallocate | Code4rena | 3 L | NA |
-| [Tadle](https://tadle.com/) | Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets! | CodeHawks |  3 L | [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
-| [TraitForge](https://traitforge.game/) | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. | Code4rena | QA | [Submission](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
-|[Predy Finance](https://www.predy.finance/) | New Trade experience with the Intent-Based Perpetual and Swap DEX. | Code4rena | 2 M | [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/69) | 
-|[Autonolas](https://olas.network/)| Autonolas is a unified network for off-chain services like automation, oracles, co-owned AI | Code4rena |QA|[Submission](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md)|
-| [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)|A first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking|CodeHawks|2 L|[Submission](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [Submission](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169)|
-| [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | A collective DAO designed to unlock liquidity, DeFi and higher rewards for restaked assets through liquid restaking | Code4rena | Medium | [Submission](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
-| [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Next-gen DeFi protocol designed to provide the highest and most sustainable real yields | CodeHawks | Low | [Submission](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) | 
-| [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Efficient liquidity renting and management across chains with Curvenized Uniswap V3 | Code4rena | Medium | [Submission](https://github.com/code-423n4/2023-05-maia-findings/issues/372) | 
-| [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | A DAO-driven NFT project on Ethereum | Code4rena | QA | [Submission](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+| [Tadle](https://tadle.com/) | Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets! | CodeHawks |  3 L | [1](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [2](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [3](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
+| [TraitForge](https://traitforge.game/) | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. | Code4rena | QA | [Report](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
+|[Predy Finance](https://www.predy.finance/) | New Trade experience with the Intent-Based Perpetual and Swap DEX. | Code4rena | 2 M | [1](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [2](https://github.com/code-423n4/2024-05-predy-findings/issues/69) | 
+|[Autonolas](https://olas.network/)| Autonolas is a unified network for off-chain services like automation, oracles, co-owned AI | Code4rena | QA | [Report](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md)|
+| [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)|A first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking|CodeHawks|2 L|[1](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [2](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169)|
+| [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | A collective DAO designed to unlock liquidity, DeFi and higher rewards for restaked assets through liquid restaking | Code4rena | Medium | [1](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
+| [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Next-gen DeFi protocol designed to provide the highest and most sustainable real yields | CodeHawks | Low | [1](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) | 
+| [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Efficient liquidity renting and management across chains with Curvenized Uniswap V3 | Code4rena | Medium | [1](https://github.com/code-423n4/2023-05-maia-findings/issues/372) | 
+| [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | A DAO-driven NFT project on Ethereum | Code4rena | QA | [Report](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
 
 ## Private Audits
 | Client | Description | Results |

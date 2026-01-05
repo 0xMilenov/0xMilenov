@@ -6,6 +6,9 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 ## Competitive Audits
 | Contest | Description | Platform | Findings | Submissions |
 |:-------:|:-----------:|:--------:|:--------:|:-----------:|
+| [Megapot](https://megapot.io/) | Megapot is crypto's largest jackpot. 100% of every ticket sold goes back to the community. | Code4rena | 1 M, 2 L, QA - B grade | NA |
+| [GTE Perps and Launchpad](https://www.gte.xyz/) | GTE is the world's fastest decentralized exchange. | Code4rena | 4 M, 2 L, QA - A grade | NA | 
+| [Nudge](https://nudge.xyz/) | Reallocate Tokens, Get Instant Rewards! Get Paid to Reallocate | Code4rena | 3 L | NA |
 | [Tadle](https://tadle.com/) | Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets! | CodeHawks |  3 L | [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [Submission](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
 | [TraitForge](https://traitforge.game/) | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. | Code4rena | QA | [Submission](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
 |[Predy Finance](https://www.predy.finance/) | New Trade experience with the Intent-Based Perpetual and Swap DEX. | Code4rena | 2 M | [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [Submission](https://github.com/code-423n4/2024-05-predy-findings/issues/69) | 

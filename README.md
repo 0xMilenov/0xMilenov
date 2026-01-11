@@ -5,8 +5,8 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 ## Contests
 
-| # | Date | Contest | Category | Platform | Confirmed Results |
-|---|------|---------|----------|----------|-------------------|
+| # | <div align="left">Date</div> | <div align="left">Contest</div> | <div align="left">Category</div> | <div align="left">Platform</div> | <div align="left">Confirmed Results</div> |
+|:--:|------|---------|----------|----------|-------------------|
 | 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) |
 | 2 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
 | 3 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
@@ -23,17 +23,17 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 ## Private Audits
 
-| # | Date | Client | Category | Description | Vulnerabilities | Results |
-|:--:|:------:|:-------:|:---------:|:-----------|:---------------:|:--------:|
-| 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | C2, H1 | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
-| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | M4, L1 | [Report](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
-| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | M4, L8 | [Report](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
+| # | <div align="left">Date</div> | <div align="left">Client</div> | <div align="left">Category</div> | <div align="left">Description</div> | <div align="left">Vulnerabilities</div> | <div align="left">Report</div> |
+|:--:|------|--------------------------------|----------------------------------|-------------------------------------|-----------------------------------------|--------------------------------|
+| 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | C2, H1 | [View](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
+| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | M4, L1 | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
+| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | M4, L8 | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
 
 
-# Web3 Development
+## Web3 Development
 
-| # | Date | Project | Description | Dev Role |
-|:--:|:------:|:-------:|:-----------|:--------:|
+| # | <div align="left">Date</div> | <div align="left">Project</div> | <div align="left">Description</div> | <div align="left">Dev Role</div> |
+|:-:|------|---------------------------------|-------------------------------------|---------------------------------|
 | 1 | 2025.03 | [Pool](https://www.poolswap.io/) | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. (solana-mixer) | Lead |
 | 2 | 2024.12 | [LumiaUSD](https://lumia-ui-phi.vercel.app/) | A fork of the 3A DAO lending protocol, customized for Lumia to enable LUMIA token holders to use their tokens as collateral for borrowing rwaUSD stablecoin. | Senior |
 | 3 | 2024.10 | [Optima Financial](https://www.optima.financial/) | An investment platform that tokenizes cryptocurrency investment strategies in a secure and compliant way. | Senior |

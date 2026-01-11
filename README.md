@@ -3,21 +3,23 @@
 Blockchain engineer and security researcher specializing in smart contract audits.                 
 Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other software engineering work.        
 
-## Competitive Audits
-| Contest | Description | Platform | Confirmed Results | Vulnerabilities |
-|:-------:|:-----------:|:--------:|:--------:|:-----------:|
-| [Megapot](https://megapot.io/) | Megapot is crypto's largest jackpot. 100% of every ticket sold goes back to the community. | Code4rena | 1 M, 2 L, QA(B) | [View](https://github.com/0xMilenov/audits/tree/main/contests/megapot) |
-| [GTE Perps and Launchpad](https://www.gte.xyz/) | GTE is the world's fastest decentralized exchange. | Code4rena | 4 M, 2 L, QA(A) | [View](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) | 
-| [Nudge](https://nudge.xyz/) | Reallocate Tokens, Get Instant Rewards! Get Paid to Reallocate | Code4rena | 3 L | [View](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
-| [Tadle](https://tadle.com/) | Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets! | CodeHawks |  3 L | [1](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [2](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [3](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
-| [TraitForge](https://traitforge.game/) | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. | Code4rena | QA | [Report](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
-|[Predy Finance](https://www.predy.finance/) | New Trade experience with the Intent-Based Perpetual and Swap DEX. | Code4rena | 2 M | [1](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [2](https://github.com/code-423n4/2024-05-predy-findings/issues/69) | 
-|[Autonolas](https://olas.network/)| Autonolas is a unified network for off-chain services like automation, oracles, co-owned AI | Code4rena | QA | [Report](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md)|
-| [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674)|A first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking|CodeHawks|2 L|[1](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [2](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169)|
-| [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | A collective DAO designed to unlock liquidity, DeFi and higher rewards for restaked assets through liquid restaking | Code4rena | Medium | [1](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
-| [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Next-gen DeFi protocol designed to provide the highest and most sustainable real yields | CodeHawks | Low | [1](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) | 
-| [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Efficient liquidity renting and management across chains with Curvenized Uniswap V3 | Code4rena | Medium | [1](https://github.com/code-423n4/2023-05-maia-findings/issues/372) | 
-| [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | A DAO-driven NFT project on Ethereum | Code4rena | QA | [Report](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+## Contests
+
+| # | Date | Contest | Category | Platform | Confirmed Results |
+|---|------|---------|----------|----------|-------------------|
+| 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) |
+| 2 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
+| 3 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
+| 4 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
+| 5 | 2024.07 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT / GameFi | Code4rena | [QA](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
+| 6 | 2024.05 | [Predy Finance](https://code4rena.com/audits/2024-05-predy) | Perpetuals / DEX | Code4rena | [M](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [M](https://github.com/code-423n4/2024-05-predy-findings/issues/69) |
+| 7 | 2024.05 | [Olas](https://code4rena.com/audits/2024-05-olas) | DAO / Infrastructure | Code4rena | [QA](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md) |
+| 8 | 2023.12 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | Staking / DeFi | CodeHawks | [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169) |
+| 9 | 2023.11 | [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | Liquid Restaking / DeFi | Code4rena | [1M](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
+|10 | 2023.10 | [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Yield / DeFi | CodeHawks | [1L](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) |
+|11 | 2023.07 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | DAO / NFT | Code4rena | [QA](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+|12 | 2023.05 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Liquidity / DeFi | Code4rena | [1M](https://github.com/code-423n4/2023-05-maia-findings/issues/372) |
+
 
 ## Private Audits
 

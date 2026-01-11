@@ -8,7 +8,7 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 | # | <div align="left">Date</div> | <div align="left">Contest</div> | <div align="left">Category</div> | <div align="left">Platform</div> | <div align="left">Language</div> | <div align="left">Confirmed Results</div> |
 |:--:|------|---------|----------|----------|-------------------|--------|
 | 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | Solidity | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) | 
-| 2 | 2025.10 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | AMM | Code4rena | Solidity | [L](https://github.com/0xMilenov/audits/blob/main/contests/covenant/covenant-L1.md) |
+| 2 | 2025.10 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | Leverage / Yield | Code4rena | Solidity | [L](https://github.com/0xMilenov/audits/blob/main/contests/covenant/covenant-L1.md) |
 | 3 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | Solidity  | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
 | 4 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | Solidity | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
 | 5 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |

@@ -20,15 +20,17 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | A DAO-driven NFT project on Ethereum | Code4rena | QA | [Report](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
 
 ## Private Audits
-| Client | Description | Results |
-|:-------:|:-----------:|:-----------:|
-| [QuantDAO](https://staking.quantdao.io/) | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
-| [3A DAO](https://3adao.org/) | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets | [Report](https://github.com/0xMilenov/audits/blob/main/3A-DAO.pdf) |
-| [DEEPSPACE](https://deepspace.game/) | Platform that leverages risk for dynamic yield-generating strategies. It combines frictionless holder incentives and reward structures | [Report](https://github.com/0xMilenov/audits/blob/main/2023-11-DEEPSPACE.pdf) |
+
+| # | Date | Client | Category | Description | Vulnerabilities | Results |
+|:--:|:------:|:-------:|:---------:|:-----------|:---------------:|:--------:|
+| 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | C2, H1 | [Report](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
+| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | M4, L1 | [Report](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
+| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | M4, L8 | [Report](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
+
 
 # Web3 Development
 
-| # | Date | Name | Description | Dev Role |
+| # | Date | Project | Description | Dev Role |
 |:--:|:------:|:-------:|:-----------|:--------:|
 | 1 | 2025.03 | [Pool](https://www.poolswap.io/) | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. (solana-mixer) | Lead |
 | 2 | 2024.12 | [LumiaUSD](https://lumia-ui-phi.vercel.app/) | A fork of the 3A DAO lending protocol, customized for Lumia to enable LUMIA token holders to use their tokens as collateral for borrowing rwaUSD stablecoin. | Senior |

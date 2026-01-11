@@ -26,9 +26,9 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 | # | <div align="left">Date</div> | <div align="left">Client</div> | <div align="left">Category</div> | <div align="left">Description</div> | <div align="left">Vulnerabilities</div> | <div align="left">Report</div> |
 |:--:|------|--------------------------------|----------------------------------|-------------------------------------|-----------------------------------------|--------------------------------|
-| 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | C2, H1 | [View](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
-| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | M4, L1 | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
-| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | M4, L8 | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
+| 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | 2C, 1H | [View](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
+| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | 4M, 1L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
+| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | 4M, 8L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
 
 
 ## Web3 Development

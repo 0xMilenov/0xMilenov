@@ -28,28 +28,18 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 # Web3 Development
 
-| Name | Description | Dev Role | Website |
-|:-------:|:-----------:|:--------:|:--------:|
-| Pool | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. (solana-mixer) | Lead | [dApp](https://www.poolswap.io/) |
-| Optima Financial | An investment platform that tokenizes cryptocurrency investment strategies in a secure and compliant way. | Senior | [dApp](https://www.optima.financial/) |  
-| TrustedStake | The premier non-custodial and pioneering trustless staking service within the Bittensor ecosystem. | Lead | [dApp](https://trustedstake.ai/) |
-| 3A DAO | Decentralized, permissionless lending and trading markets for quality on-chain assets. | Senior | [dApp](https://3a-dapp-git-redbelly-bonq-ch.vercel.app/) |
-| LumiaUSD | A fork of the 3A DAO lending protocol, customized for Lumia to enable LUMIA token holders to use their tokens as collateral for borrowing rwaUSD stablecoin. | Senior | [dApp](https://lumia-ui-phi.vercel.app/) | 
-| DAG Bridge | The DAG Bridge is a cross-chain bridge that allows users to transfer assets between Ethereum and Constellation. | Senior | [dApp](https://dag-bridge.3adao.org/) |
-| Inferno | Inferno is simple: Use $TITANX and mint $INFERNO. There are 8, twenty four hour mint cycles and 90% buy and burn. | Lead | [dApp](https://inferno.win/) |
-| VOLT | Volt, built on TitanX, is a hyper-deflationary token with a unique auction system. | Lead | [dApp](https://app.volt.win/auction)
-| AwesomeX | AwesomeX is a hyper-deflationary perpetual compounding machine Built on DragonX - Using TitanX to mint. | Lead | [dApp](https://x.com/AwesomeXwins) | 
-| LiveSphere | Decentralized platform that connects broadcasters and viewers through live streaming, token economies, and direct engagement. | Lead | [dApp](https://livesphere-landing-page.vercel.app/) |
+| # | Date | Name | Description | Dev Role |
+|:--:|:------:|:-------:|:-----------|:--------:|
+| 1 | 2025.03 | [Pool](https://www.poolswap.io/) | A DEX, privacy-focused for Solana that allows users to deposit and withdraw funds while maintaining privacy. (solana-mixer) | Lead |
+| 2 | 2024.12 | [LumiaUSD](https://lumia-ui-phi.vercel.app/) | A fork of the 3A DAO lending protocol, customized for Lumia to enable LUMIA token holders to use their tokens as collateral for borrowing rwaUSD stablecoin. | Senior |
+| 3 | 2024.10 | [Optima Financial](https://www.optima.financial/) | An investment platform that tokenizes cryptocurrency investment strategies in a secure and compliant way. | Senior |
+| 4 | 2024.10 | [LiveSphere](https://livesphere-landing-page.vercel.app/) | Decentralized platform that connects broadcasters and viewers through live streaming, token economies, and direct engagement. | Lead |
+| 5 | 2024.09 | [VOLT](https://app.volt.win/auction) | Volt, built on TitanX, is a hyper-deflationary token with a unique auction system. | Lead |
+| 6 | 2024.08 | [AwesomeX](https://x.com/AwesomeXwins) | AwesomeX is a hyper-deflationary perpetual compounding machine built on DragonX, using TitanX to mint. | Lead |
+| 7 | 2024.06 | [Inferno](https://inferno.win/) | Inferno is simple: Use $TITANX and mint $INFERNO. There are 8, twenty four hour mint cycles and 90% buy and burn. | Lead |
+| 8 | 2024.05 | [TrustedStake](https://trustedstake.ai/) | The premier non-custodial and pioneering trustless staking service within the Bittensor ecosystem. | Lead |
+| 9 | 2024.03 | [3A DAO](https://3a-dapp-git-redbelly-bonq-ch.vercel.app/) | Decentralized, permissionless lending and trading markets for quality on-chain assets. | Senior |
+|10 | 2024.01 | [DAG Bridge](https://dag-bridge.3adao.org/) | The DAG Bridge is a cross-chain bridge that allows users to transfer assets between Ethereum and Constellation. | Senior |
+
 
 Click [here](https://visualisa.xyz/) to explore all of them.
- 
-
-
-
-
-
-
-
-
-
-

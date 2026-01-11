@@ -5,20 +5,20 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 
 ## Contests
 
-| # | <div align="left">Date</div> | <div align="left">Contest</div> | <div align="left">Category</div> | <div align="left">Platform</div> | <div align="left">Confirmed Results</div> |
-|:--:|------|---------|----------|----------|-------------------|
-| 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) |
-| 2 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
-| 3 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
-| 4 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
-| 5 | 2024.07 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT / GameFi | Code4rena | [QA](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
-| 6 | 2024.05 | [Predy Finance](https://code4rena.com/audits/2024-05-predy) | Perpetuals / DEX | Code4rena | [M](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [M](https://github.com/code-423n4/2024-05-predy-findings/issues/69) |
-| 7 | 2024.05 | [Olas](https://code4rena.com/audits/2024-05-olas) | DAO / Infrastructure | Code4rena | [QA](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md) |
-| 8 | 2023.12 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | Staking / DeFi | CodeHawks | [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169) |
-| 9 | 2023.11 | [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | Liquid Restaking / DeFi | Code4rena | [1M](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
-|10 | 2023.10 | [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Yield / DeFi | CodeHawks | [1L](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) |
-|11 | 2023.07 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | DAO / NFT | Code4rena | [QA](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
-|12 | 2023.05 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Liquidity / DeFi | Code4rena | [1M](https://github.com/code-423n4/2023-05-maia-findings/issues/372) |
+| # | <div align="left">Date</div> | <div align="left">Contest</div> | <div align="left">Category</div> | <div align="left">Platform</div> | <div align="left">Language</div> | <div align="left">Confirmed Results</div> |
+|:--:|------|---------|----------|----------|-------------------|--------|
+| 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | Solidity | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) | 
+| 2 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | Solidity  | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
+| 3 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | Solidity | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
+| 4 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
+| 5 | 2024.07 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT / GameFi | Code4rena | Solidity | [QA](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
+| 6 | 2024.05 | [Predy Finance](https://code4rena.com/audits/2024-05-predy) | Perpetuals / DEX | Code4rena | Solidity | [M](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [M](https://github.com/code-423n4/2024-05-predy-findings/issues/69) |
+| 7 | 2024.05 | [Olas](https://code4rena.com/audits/2024-05-olas) | DAO / Infrastructure | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md) |
+| 8 | 2023.12 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | Staking / DeFi | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169) |
+| 9 | 2023.11 | [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | Liquid Restaking / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
+|10 | 2023.10 | [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Yield / DeFi | CodeHawks | Solidity | [1L](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) |
+|11 | 2023.07 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | DAO / NFT | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+|12 | 2023.05 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Liquidity / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-05-maia-findings/issues/372) |
 
 
 ## Private Audits

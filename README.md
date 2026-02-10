@@ -1,4 +1,4 @@
-# Portfolio - 0xMilenov
+## About me
 
 Blockchain engineer & security researcher focused on smart contract audits.  
 

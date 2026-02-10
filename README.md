@@ -1,25 +1,32 @@
 # Portfolio - 0xMilenov
 
-Blockchain engineer and security researcher specializing in smart contract audits.                 
-Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other software engineering work.        
+Blockchain engineer & security researcher focused on smart contract audits.               
+Contact me via [telegram](https://t.me/SR_0xMilenov) for audits, invariant testing, or other software engineering work.        
+
+## Highlights
+
+- **23 H/M bugs found** across public contests and solo audits
+- **Lead/Senior dev on 10+ web3 projects** (DeFi apps, protocols, infra)
+- **RareSkills Invariant Testing Bootcamp** participant
 
 ## Contests
 
 | # | <div align="left">Date</div> | <div align="left">Contest</div> | <div align="left">Category</div> | <div align="left">Platform</div> | <div align="left">Language</div> | <div align="left">Confirmed Results</div> |
 |:--:|------|---------|----------|----------|-------------------|--------|
-| 1 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | Solidity | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) | 
-| 2 | 2025.10 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | Leverage / Yield | Code4rena | Solidity | [L](https://github.com/0xMilenov/audits/blob/main/contests/covenant/covenant-L1.md) |
-| 3 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | Solidity  | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
-| 4 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | Solidity | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
-| 5 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
-| 6 | 2024.07 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT / GameFi | Code4rena | Solidity | [QA](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
-| 7 | 2024.05 | [Predy Finance](https://code4rena.com/audits/2024-05-predy) | Perpetuals / DEX | Code4rena | Solidity | [M](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [M](https://github.com/code-423n4/2024-05-predy-findings/issues/69) |
-| 8 | 2024.05 | [Olas](https://code4rena.com/audits/2024-05-olas) | DAO / Infrastructure | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md) |
-| 9 | 2023.12 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | Staking / DeFi | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169) |
-| 10 | 2023.11 | [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | Liquid Restaking / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
-| 11 | 2023.10 | [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Yield / DeFi | CodeHawks | Solidity | [1L](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) |
-| 12 | 2023.07 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | DAO / NFT | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
-| 13 | 2023.05 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Liquidity / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-05-maia-findings/issues/372) |
+| 1 | 2025.12 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | RWA / Private Credit | Code4rena | Solidity | [H](https://github.com/0xMilenov/audits/blob/main/contests/sukukfi/sukukfi-H1.md) |
+| 2 | 2025.11 | [Megapot](https://code4rena.com/audits/2025-11-megapot) | Lottery / GameFi | Code4rena | Solidity | [1M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/megapot) | 
+| 3 | 2025.10 | [Covenant](https://code4rena.com/audits/2025-10-covenant) | Leverage / Yield | Code4rena | Solidity | [L](https://github.com/0xMilenov/audits/blob/main/contests/covenant/covenant-L1.md) |
+| 4 | 2025.08 | [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | DEX / Perpetuals | Code4rena | Solidity  | [4M, 2L, QA](https://github.com/0xMilenov/audits/tree/main/contests/gte-perps) |
+| 5 | 2025.03 | [Nudge](https://code4rena.com/audits/2025-03-nudgexyz) | Incentives / DeFi | Code4rena | Solidity | [3L](https://github.com/0xMilenov/audits/tree/main/contests/nudge) |
+| 6 | 2024.08 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | DeFi Infrastructure | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1026), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1133), [L](https://codehawks.cyfrin.io/c/2024-08-tadle/s/1421) |
+| 7 | 2024.07 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | NFT / GameFi | Code4rena | Solidity | [QA](https://github.com/code-423n4/2024-07-traitforge-validation/issues/829) |
+| 8 | 2024.05 | [Predy Finance](https://code4rena.com/audits/2024-05-predy) | Perpetuals / DEX | Code4rena | Solidity | [M](https://github.com/code-423n4/2024-05-predy-findings/issues/42), [M](https://github.com/code-423n4/2024-05-predy-findings/issues/69) |
+| 9 | 2024.05 | [Olas](https://code4rena.com/audits/2024-05-olas) | DAO / Infrastructure | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-12-autonolas-findings/blob/main/data/0xMilenov-Q.md) |
+| 10 | 2023.12 | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | Staking / DeFi | CodeHawks | Solidity | [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/166), [L](https://codehawks.cyfrin.io/c/2023-12-stake-link/s/169) |
+| 11 | 2023.11 | [Kelp DAO](https://code4rena.com/reports/2023-11-kelp) | Liquid Restaking / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-11-kelp-findings/issues/148) |
+| 12 | 2023.10 | [Steadefi](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/s/51) | Yield / DeFi | CodeHawks | Solidity | [1L](https://www.codehawks.com/submissions/clo38mm260001la08daw5cbuf/51) |
+| 13 | 2023.07 | [Nouns DAO](https://code4rena.com/contests/2023-07-nouns-dao#top) | DAO / NFT | Code4rena | Solidity | [QA](https://github.com/code-423n4/2023-07-nounsdao-findings/blob/main/data/0xMilenov-Q.md) |
+| 14 | 2023.05 | [Maia DAO](https://code4rena.com/contests/2023-05-maia-dao-ecosystem#top) | Liquidity / DeFi | Code4rena | Solidity | [1M](https://github.com/code-423n4/2023-05-maia-findings/issues/372) |
 
 
 ## Private Audits
@@ -27,8 +34,9 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits or other softwar
 | # | <div align="left">Date</div> | <div align="left">Client</div> | <div align="left">Category</div> | <div align="left">Description</div> | <div align="left">Vulnerabilities</div> | <div align="left">Report</div> |
 |:--:|------|--------------------------------|----------------------------------|-------------------------------------|-----------------------------------------|--------------------------------|
 | 1 | 2025.05 | [QuantDAO](https://staking.quantdao.io/) | Staking / DeFi | QuantDAO offers a decentralized staking platform where users can lock their QD tokens to receive sQD. | 2C, 1H | [View](https://github.com/visualisaxyz/audits/blob/main/quantdao.pdf) |
-| 2 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | 4M, 1L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
-| 3 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | 4M, 8L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
+| 2 | 2024.04 | [3A DAO V2](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | 2M | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO%20V2.pdf) |
+| 3 | 2024.02 | [3A DAO](https://3adao.org/) | Lending / DeFi / RWA | Lending protocol offering efficient leverage with no recurring interest for both crypto assets and on-chain Real World Assets. | 4M, 1L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/3A-DAO.pdf) |
+| 4 | 2023.11 | [DEEPSPACE](https://deepspace.game/) | GameFi / Yield | Platform that leverages risk for dynamic yield-generating strategies, combining frictionless holder incentives and reward structures. | 4M, 8L | [View](https://github.com/0xMilenov/audits/blob/main/solo-audits/2023-11-DEEPSPACE.pdf) |
 
 
 ## Web3 Development

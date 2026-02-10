@@ -1,6 +1,11 @@
 # Portfolio - 0xMilenov
 
-Blockchain engineer & security researcher focused on smart contract audits.               
+Blockchain engineer & security researcher focused on smart contract audits.  
+
+- **5+ years** of experience as a software engineer  
+- **3+ years** of experience as a blockchain engineer
+- **2+ years** of experience as an EVM security researcher
+
 Contact me via [telegram](https://t.me/SR_0xMilenov) for audits, invariant testing, or other software engineering work.        
 
 ## Highlights

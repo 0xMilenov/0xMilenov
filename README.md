@@ -13,7 +13,6 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits, invariant testi
 - **23 H/M bugs found** across public contests and solo audits
 - **Multi-chain EVM contract indexer with AI-powered (evmbench) security audits** [https://app.visualisa.xyz/](https://app.visualisa.xyz/) 
 - **Lead/Senior dev on 10+ web3 projects** (DeFi apps, protocols, infra) you can check them here [https://visualisa.xyz/](https://visualisa.xyz/) 
-- **RareSkills Invariant Testing Bootcamp** participant
 
 ## Contests
 

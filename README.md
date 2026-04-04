@@ -10,7 +10,7 @@ Contact me via [telegram](https://t.me/SR_0xMilenov) for audits, invariant testi
 
 ## Highlights
 
-- **Founder & solo dev of [vLend](https://vlend.visualisa.xyz/)** — a zero-interest lending protocol on MegaETH, built and shipped entirely solo (smart contracts, backend, frontend, docs, community)
+- **Founder of [vLend](https://vlend.visualisa.xyz/),** a zero-interest lending protocol on MegaETH, handling smart contracts, backend, and frontend on my own.
 - **Multi-chain EVM contract indexer with AI-powered security audits** [https://app.visualisa.xyz/](https://app.visualisa.xyz/)
 - **Lead/Senior dev on 10+ web3 projects** (DeFi apps, protocols, infra) [https://visualisa.xyz/](https://visualisa.xyz/)
 - **23 H/M bugs found** across public contests and solo audits
